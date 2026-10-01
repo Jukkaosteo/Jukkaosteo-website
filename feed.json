@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pohdintaa terveydestä ja osteopatiasta - JukkaOsteo",
+    "description": "",
+    "home_page_url": "https://jukkaosteo.fi",
+    "feed_url": "https://jukkaosteo.fi/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jukkaosteo"
+    },
+    "items": [
+    ]
+}

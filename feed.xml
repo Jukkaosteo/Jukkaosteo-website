@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Pohdintaa terveydestä ja osteopatiasta - JukkaOsteo</title>
+    <link href="https://jukkaosteo.fi/feed.xml" rel="self" />
+    <link href="https://jukkaosteo.fi" />
+    <updated>1970-01-01T02:00:00+02:00</updated>
+    <author>
+        <name>Jukkaosteo</name>
+    </author>
+    <id>https://jukkaosteo.fi</id>
+
+</feed>
